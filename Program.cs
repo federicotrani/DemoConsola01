@@ -5,7 +5,7 @@ namespace conversion_dolar_y_euro
     class Program
     {        
         static void menu(){
-            int  op, cotizacion_dolar, cotizacion_euro, dolar, euro, peso_argentino;
+            int  op, cotizacion_dolar, cotizacion_euro_dos, dolar, euro, peso_argentino;
             string op2, espacio_salida;
             
             Console.WriteLine(" 1. Conversion de Euro a Pesos Argentino");
